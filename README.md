@@ -1,6 +1,6 @@
-# NuroAI Staking Frontend
+# NoraAi Staking Frontend
 
-This repository contains the frontend for the NuroAI staking dApp. It provides a sleek and responsive user interface to interact with the backend and blockchain for staking, unstaking, and claiming rewards.
+This repository contains the frontend for the NoraAi staking dApp. It provides a sleek and responsive user interface to interact with the backend and blockchain for staking, unstaking, and claiming rewards.
 
 ## Features
 
@@ -20,8 +20,8 @@ This repository contains the frontend for the NuroAI staking dApp. It provides a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nuroai/nuroai-staking-frontend.git
-   cd nuroai-staking-frontend
+   git clone https://github.com/NoraAi/NoraAi-staking-frontend.git
+   cd NoraAi-staking-frontend
    ```
 
 2. Install dependencies:
@@ -37,7 +37,7 @@ This repository contains the frontend for the NuroAI staking dApp. It provides a
 ## Folder Structure
 
 ```
-nuroai-staking-frontend/
+NoraAi-staking-frontend/
 ├── public/                  # Static files
 ├── src/                     # React application
 │   ├── components/          # Reusable components
