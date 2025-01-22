@@ -20,7 +20,7 @@ This repository contains the frontend for the NoraAi staking dApp. It provides a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NoraAi/NoraAi-staking-frontend.git
+   git clone https://github.com/Norai-Ai/nuroai-staking-frontend-main.git
    cd NoraAi-staking-frontend
    ```
 
